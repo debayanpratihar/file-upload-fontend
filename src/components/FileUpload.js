@@ -75,7 +75,7 @@ const FileUpload = () => {
       {selectedFile && (
         <>
           <div className="file-card">
-            <span className="material-symbols-outlined icon">description</span>
+            <span className="material-symbols-outlined icon">Your Code</span>
 
             <div className="file-info">
               <div style={{ flex: 1 }}>

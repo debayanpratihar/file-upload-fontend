@@ -7,10 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Upload the zipfile of your code</h1>
+        <h1>zip file name should contain your name</h1>
         <h2>DHC Virtual Project Challenge: Practice Your Code</h2>
-        <p>Challenge Description:</p>
+        <p>Challenge Description</p>
         <p>
-          VoIP Project: <br />
+          VoIP Project <br />
           Objective: Incorporate a feature into a web app that allows users to:
           <ul>
             <li>Make video calls to their friends.</li>
