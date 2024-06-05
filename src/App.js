@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>File Upload to Firebase</h1>
+        <h1>Upload the zipfile of your code</h1>
         <h2>DHC Virtual Project Challenge: Practice Your Code</h2>
         <p>Challenge Description:</p>
         <p>
