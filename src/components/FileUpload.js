@@ -39,7 +39,7 @@ const FileUpload = () => {
       formData.append("file", selectedFile);
 
       const response = await axios.post(
-        "http://localhost:8000/api/upload",
+        "https://file-upload-backend-ln4j.onrender.com/api/upload",
         formData,
         {
           onUploadProgress: (progressEvent) => {
